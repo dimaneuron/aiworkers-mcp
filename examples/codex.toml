@@ -1,0 +1,7 @@
+# $CODEX_HOME/config.toml  (often ~/.codex/config.toml)
+[mcp_servers.aiworkers]
+command = "aiworkers-mcp"
+
+[mcp_servers.aiworkers.env]
+AIWORKERS_API_BASE = "https://ai.knopka.click"
+AIWORKERS_API_KEY = "PASTE_YOUR_KEY_FROM_ADMIN"
