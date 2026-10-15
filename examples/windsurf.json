@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "aiworkers": {
+      "command": "aiworkers-mcp",
+      "env": {
+        "AIWORKERS_API_BASE": "https://ai.knopka.click",
+        "AIWORKERS_API_KEY": "PASTE_YOUR_KEY_FROM_ADMIN"
+      }
+    }
+  }
+}
