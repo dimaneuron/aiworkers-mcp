@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "aiworkers": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/dimaneuron/aiworkers-mcp.git",
+        "aiworkers-mcp"
+      ],
+      "env": {
+        "AIWORKERS_API_BASE": "https://ai.knopka.click"
+      }
+    }
+  }
+}
